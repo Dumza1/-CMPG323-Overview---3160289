@@ -15,8 +15,8 @@ Project 5
 
 #Diagram explaining project and repository context and how they are integrated
 
-
 Because this project will be linked to a kanban project, the diagram will look like this:
+
 <div style="display: flex; justify-content: center;">
     <img src="https://mfdot.com/AboutMe/Diagram.drawio.svg" alt="" style="width: 500px ;height:300px">
 </div>
@@ -24,6 +24,7 @@ Because this project will be linked to a kanban project, the diagram will look l
 
 
 #Branching Strategy to be used within each project :
+
 I will be using GitHub Flow Branch Strategy -GitFlow, which is considered a bit complicated and advanced for many of today's projects, allows developers to work separately from the master branch on features where a feature branch is created from the master branch.
 
 When the changes are finished, the developer merges them back into the master branch for release.
