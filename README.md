@@ -1,6 +1,6 @@
 # -CMPG323-Overview---31602894-
 
-#Repository :
+**#Repository :**
 I will be creating  repository for each project from project 1-project 5
 
 Project 1( I already create repository for project 1)
@@ -13,7 +13,7 @@ Project 4
 
 Project 5
 
-#Diagram explaining project and repository context and how they are integrated
+**#Diagram explaining project and repository context and how they are integrated**
 
 Because this project will be linked to a kanban project, the diagram will look like this:
 
@@ -23,7 +23,7 @@ Because this project will be linked to a kanban project, the diagram will look l
 
 
 
-#Branching Strategy to be used within each project :
+**#Branching Strategy to be used within each project :**
 
 I will be using GitHub Flow Branch Strategy -GitFlow, which is considered a bit complicated and advanced for many of today's projects, allows developers to work separately from the master branch on features where a feature branch is created from the master branch.
 
@@ -44,7 +44,7 @@ Hotfix- Like release branches, hotfix branches are created in response to a bug 
  #use of a .gitignore file within each project
 gitignore file tells Git which files to ignore when committing your project to the GitHub repository. gitignore is located in the root directory of your repo.
 
-#explain the storage of credentials and sensitive information
+**#explain the storage of credentials and sensitive information**
 
 Never store credentials and sensitive data on GitHub:
 GitHub’s purpose is to host code repositories. Beyond the permissions you set on your account, there is no other method of security that will ensure that your secret keys, private credentials, and sensitive data remain within a controlled and secured environment.
