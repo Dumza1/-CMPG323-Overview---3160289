@@ -15,7 +15,12 @@ Project 5
 
 #Diagram explaining project and repository context and how they are integrated
 
+
 Because this project will be linked to a kanban project, the diagram will look like this:
+<div style="display: flex; justify-content: center;">
+    <img src="https://mfdot.com/AboutMe/Diagram.drawio.svg" alt="" style="width: 500px ;height:300px">
+</div>
+
 
 
 #Branching Strategy to be used within each project :
