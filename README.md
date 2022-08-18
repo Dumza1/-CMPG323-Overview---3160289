@@ -24,6 +24,7 @@ I will be using GitHub Flow Branch Strategy -GitFlow, which is considered a bit 
 When the changes are finished, the developer merges them back into the master branch for release.
 
 The following branches comprise this branching strategy
+
 Master
 
 Develop
