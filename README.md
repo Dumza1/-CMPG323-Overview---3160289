@@ -15,6 +15,9 @@ Project 5
 
 #Diagram explaining project and repository context and how they are integrated
 
+Because this project will be linked to a kanban project, the diagram will look like this:
+
+
 #Branching Strategy to be used within each project :
 I will be using GitHub Flow Branch Strategy -GitFlow, which is considered a bit complicated and advanced for many of today's projects, allows developers to work separately from the master branch on features where a feature branch is created from the master branch.
 
