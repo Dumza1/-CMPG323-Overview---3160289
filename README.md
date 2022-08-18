@@ -24,5 +24,5 @@ I will be using GitHub Flow Branch Strategy - The gitHub flow branching strategy
 GitHub’s purpose is to host code repositories. Beyond the permissions you set on your account, there is no other method of security that will ensure that your secret keys, private credentials, and sensitive data remain within a controlled and secured environment.
  
 REFERENCES
-https://spectralops.io/resources/how-to-choose-a-secret-scanning-solution-to-protect-credentials-in-your-code/
+[credentials and sensitive ]https://spectralops.io/resources/how-to-choose-a-secret-scanning-solution-to-protect-credentials-in-your-code/
 https://www.geeksforgeeks.org/what-is-git-ignore-and-how-to-use-it/
