@@ -23,6 +23,7 @@ Because this project will be linked to a kanban project, the diagram will look l
 
 
 
+
 **#Branching Strategy to be used within each project :**
 
 I will be using GitHub Flow Branch Strategy -GitFlow, which is considered a bit complicated and advanced for many of today's projects, allows developers to work separately from the master branch on features where a feature branch is created from the master branch.
@@ -41,8 +42,8 @@ Release- aids in the preparation of a new production release; typically branched
 
 Hotfix- Like release branches, hotfix branches are created in response to a bug that has been discovered and must be resolved;
 
- #use of a .gitignore file within each project
-gitignore file tells Git which files to ignore when committing your project to the GitHub repository. gitignore is located in the root directory of your repo.
+ **#use of a .gitignore file within each project**
+When committing your project to the GitHub repository, the gitignore file tells Git which files to ignore. The gitignore file is in the root directory of your repository.
 
 **#explain the storage of credentials and sensitive information**
 
