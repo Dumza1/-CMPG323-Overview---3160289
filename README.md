@@ -17,9 +17,6 @@ Project 5
 
 Because this project will be linked to a kanban project, the diagram will look like this:
 
-<div style="display: flex; justify-content: center;">
-    <img src="https://mfdot.com/AboutMe/Diagram.drawio.svg" alt="" style="width: 500px ;height:300px">
-</div>
 
 
 
