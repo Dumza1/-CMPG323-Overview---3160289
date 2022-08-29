@@ -13,11 +13,6 @@ Project 4
 
 Project 5
 
-**#Diagram explaining project and repository context and how they are integrated**
-
-Because this project will be linked to a kanban project, the diagram will look like this:
-
-
 
 
 
