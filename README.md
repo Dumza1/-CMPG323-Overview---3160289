@@ -41,6 +41,13 @@ When committing your project to the GitHub repository, the gitignore file tells 
 
 Never store credentials and sensitive data on GitHub:
 GitHub’s purpose is to host code repositories. Beyond the permissions you set on your account, there is no other method of security that will ensure that your secret keys, private credentials, and sensitive data remain within a controlled and secured environment.
+
+#Screenshoot of chart
+
+Burndown Chart
+![Burndown chart](https://user-images.githubusercontent.com/110496999/187963821-6c47e95a-0434-4e9f-9f04-fd3e8ace28f2.png)
+
+
  
 REFERENCES
 [credentials and sensitive ](https://spectralops.io/resources/how-to-choose-a-secret-scanning-solution-to-protect-credentials-in-your-code/)
