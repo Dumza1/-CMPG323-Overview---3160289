@@ -50,6 +50,11 @@ Burndown Chart
 numbers of items by labels chart
 ![Number of items by labels](https://user-images.githubusercontent.com/110496999/187964591-d06ae169-9d7d-47e1-8508-72eacb3d228d.png)
 
+#number of items by sprint
+![Number of items by sprint](https://user-images.githubusercontent.com/110496999/187965489-e4395ba4-2361-4c15-bc1d-56ed10c6c85f.png)
+
+#number of items by status
+![number of sprint by status](https://user-images.githubusercontent.com/110496999/187965618-1f233bcc-ee8e-4112-9a15-a84e90f47ec8.png)
 
 
 
