@@ -47,6 +47,11 @@ GitHub’s purpose is to host code repositories. Beyond the permissions you set 
 Burndown Chart
 ![Burndown chart](https://user-images.githubusercontent.com/110496999/187963821-6c47e95a-0434-4e9f-9f04-fd3e8ace28f2.png)
 
+numbers of items by labels chart
+![Number of items by labels](https://user-images.githubusercontent.com/110496999/187964591-d06ae169-9d7d-47e1-8508-72eacb3d228d.png)
+
+
+
 
  
 REFERENCES
