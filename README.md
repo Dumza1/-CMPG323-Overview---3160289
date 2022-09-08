@@ -64,3 +64,5 @@ REFERENCES
 
 [branching strategy](https://www.flagship.io/git-branching-strategies/)
  
+PROJECT2
+The purpose of this project to 2 is to create security in azure and is to allow  the user to enter and register they are details in categories. Im updating this project so that everyone
