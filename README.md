@@ -66,3 +66,5 @@ REFERENCES
  
 PROJECT2
 The purpose of this project to 2 is to create security in azure and is to allow  the user to enter and register they are details in categories. Im updating this project so that everyone
+ PROJECT 3
+ The purpose of this project is to create repository pattern 
